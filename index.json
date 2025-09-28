@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "/https://pierina123.github.io/iiif-collection//709b9115914a5665d2da1b43da531176/full/300,199/0/default.jpg",
+            "id": "/https://pierina1229.github.io/iiif-collection//709b9115914a5665d2da1b43da531176/full/300,199/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 199,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "/https://pierina123.github.io/iiif-collection//manifest.json",
+            "id": "/https://pierina1229.github.io/iiif-collection//manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

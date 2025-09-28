@@ -1,0 +1,69 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://pierina1229.github.io/iiif-collection/image2/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "image2"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://pierina1229.github.io/iiif-collection/image2/709b9115914a5665d2da1b43da531176/full/300,199/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 199,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://pierina1229.github.io/iiif-collection/image2/canvas/1",
+            "type": "Canvas",
+            "height": 850,
+            "width": 1280,
+            "label": {
+                "none": [
+                    "clay-pot-8029276_1280"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://pierina1229.github.io/iiif-collection/image2/709b9115914a5665d2da1b43da531176/full/300,199/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 199,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://pierina1229.github.io/iiif-collection/image2/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://pierina1229.github.io/iiif-collection/image2/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://pierina1229.github.io/iiif-collection/image2/canvas/1",
+                            "body": {
+                                "id": "https://pierina1229.github.io/iiif-collection/image2/709b9115914a5665d2da1b43da531176/full/1280,850/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 850,
+                                "width": 1280,
+                                "service": [
+                                    {
+                                        "id": "https://pierina1229.github.io/iiif-collection/image2/709b9115914a5665d2da1b43da531176",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

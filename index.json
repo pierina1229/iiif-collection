@@ -1,26 +1,30 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://pierina1229.github.io/iiif-collection/index.json",
-  "type": "Collection",
-  "label": {
-    "none": ["My IIIF Collection"]
-  },
-  "thumbnail": [
-    {
-      "id": "https://pierina1229.github.io/iiif-collection/images/thumb.jpg",
-      "type": "Image",
-      "format": "image/jpeg",
-      "height": 225,
-      "width": 300
-    }
-  ],
-  "items": [
-    {
-      "id": "https://pierina1229.github.io/iiif-collection/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "none": ["Image 1"]
-      }
-    }
-  ]
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "My IIIF Collection"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "/https://pierina123.github.io/iiif-collection//709b9115914a5665d2da1b43da531176/full/300,199/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 199,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "/https://pierina123.github.io/iiif-collection//manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "image2"
+                ]
+            }
+        }
+    ]
 }
